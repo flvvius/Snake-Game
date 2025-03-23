@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: "/",
       disallow: ["/private/", "/admin/"],
     },
-    sitemap: "https://snake-game.example.com/sitemap.xml",
+    sitemap: "https://snake-game-iota-orcin.vercel.app/sitemap.xml",
   };
 }

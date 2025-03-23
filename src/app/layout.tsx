@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     title: "Snake Game | Play the Classic Game Online",
     description:
       "Enjoy the classic Snake game in your browser. Control the snake, eat food, and grow longer without hitting walls or yourself. How high can you score?",
-    url: "https://snake-game.example.com",
+    url: "https://snake-game-iota-orcin.vercel.app",
     siteName: "Snake Game",
     images: [
       {
@@ -61,7 +61,7 @@ export const metadata: Metadata = {
     maximumScale: 5,
   },
   applicationName: "Snake Game",
-  metadataBase: new URL("https://snake-game.example.com"),
+  metadataBase: new URL("https://snake-game-iota-orcin.vercel.app"),
 };
 
 export default function RootLayout({

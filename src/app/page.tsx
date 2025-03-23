@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description:
     "Play the classic Snake game for free in your browser. Control the snake with arrow keys, collect food, and try to beat your high score!",
   alternates: {
-    canonical: "https://snake-game.example.com",
+    canonical: "https://snake-game-iota-orcin.vercel.app",
   },
 };
 
